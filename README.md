@@ -69,7 +69,7 @@ https://youtu.be/Hla1fzwd_pQ
   - アーキテクチャがモダンでよい = Rails APIモード×SPA(React)
   - 要件定義が実践的でよい
   - 日本語でよい!
-- (Udemy)[React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- (Udemy)[React - The Complete Guide (incl Hooks, React Router, Redux)](https://click.linksynergy.com/link?id=2iJbFSWanUE&offerid=507388.1362070&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-the-complete-guide-incl-redux%2F)
   - 超膨大なコンテンツ量! HooksだけでなくRouter,Reduxも解説
   - Next.jsやWebpackについての解説も実践的で秀逸
   - 英語だけど字幕だせば安心
